@@ -34,8 +34,8 @@ main {
 
 .slide button {
     position: absolute;
-    top: 63%; /* adjust as needed */
-    left: 28%; /* adjust as needed */
+    top: 64%; /* adjust as needed */
+    left: 26%; /* adjust as needed */
     transform: translate(-50%, -50%);
      font-size: 20px; /* Makes the text larger */
     padding: 15px 30px; /* Adds more space inside the button */
