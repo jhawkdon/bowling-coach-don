@@ -34,10 +34,11 @@ main {
 
 .slide button {
     position: absolute;
-    top: 50%; /* adjust as needed */
-    left: 50%; /* adjust as needed */
+    top: 70%; /* adjust as needed */
+    left: 10%; /* adjust as needed */
     transform: translate(-50%, -50%);
      font-size: 20px; /* Makes the text larger */
     padding: 15px 30px; /* Adds more space inside the button */
     border-radius: 8px; /* Rounds the corners more, optional */
+    background-color: #add8e6; /* This is a light blue color */
 }
