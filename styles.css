@@ -32,7 +32,18 @@ main {
     border-radius: 5px;
 }
 
-.slide button {
+.slide1-button {
+    position: absolute;
+    top: 64%; /* adjust as needed */
+    left: 27%; /* adjust as needed */
+    transform: translate(-50%, -50%);
+     font-size: 20px; /* Makes the text larger */
+    padding: 15px 30px; /* Adds more space inside the button */
+    border-radius: 8px; /* Rounds the corners more, optional */
+    background-color: #67a8ee; /* This is a light blue color */
+}
+
+.slide5-button {
     position: absolute;
     top: 64%; /* adjust as needed */
     left: 27%; /* adjust as needed */
