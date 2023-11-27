@@ -31,3 +31,9 @@ main {
     height: auto;
     border-radius: 5px;
 }
+
+.slide button {
+    position: absolute;
+    top: 50%; /* adjust as needed */
+    left: 50%; /* adjust as needed */
+    transform: translate(-50%, -50%);
