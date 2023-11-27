@@ -36,7 +36,7 @@ main {
 .slide1-button {
     position: absolute;
     top: 65%; /* adjust as needed */
-    left: 13%; /* adjust as needed */
+    left: 14%; /* adjust as needed */
     transform: translate(-50%, -50%);
      font-size: 20px; /* Makes the text larger */
     padding: 15px 30px; /* Adds more space inside the button */
@@ -46,8 +46,8 @@ main {
 
 .slide5-button {
     position: absolute;
-    top: 58%; /* adjust as needed */
-    left: 13%; /* adjust as needed */
+    top: 57%; /* adjust as needed */
+    left: 14%; /* adjust as needed */
     transform: translate(-50%, -50%);
      font-size: 20px; /* Makes the text larger */
     padding: 15px 30px; /* Adds more space inside the button */
