@@ -19,6 +19,7 @@ main {
 }
 
 .slide {
+    position: relative;
     margin-bottom: 2em;
     background: white;
     padding: 1em;
